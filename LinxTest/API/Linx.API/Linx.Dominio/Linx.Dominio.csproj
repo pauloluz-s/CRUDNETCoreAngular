@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Entidades\Base\" />
+    <Folder Include="Interfaces\Servicos\Base\" />
+  </ItemGroup>
+
+</Project>
